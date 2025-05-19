@@ -1,0 +1,16 @@
+.btn{
+    color: black;
+    background-color: brown;
+}
+#btn-sim{
+    position: fixed;
+    display: block;
+
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+
+}
