@@ -3,7 +3,7 @@
     background-color: brown;
 }
 #btn-sim{
-    position: fixed;
+    
     display: block;
 
 }
@@ -11,6 +11,9 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: red;
+    margin: 0;
+    height: 100vh;
+    background-color: lightgoldenrodyellow;
+
 
 }
